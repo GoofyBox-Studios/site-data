@@ -1,7 +1,7 @@
 {
 	"volume_1": {
 		"title": "GoofyBox Volume 1",
-		"cover": "/assets/music_icons/blank.png",
+		"cover": "/music_icons/blank.png",
 		"songs": [
 			"Melodious Melody",
 			"Disco Cow",
@@ -19,7 +19,7 @@
 	},
 	"volume_2": {
 		"title": "GoofyBox Volume 2",
-		"cover": "/assets/music_icons/blank_evil.png",
+		"cover": "/music_icons/blank_evil.png",
 		"songs": [
 			"Cyberdrift",
 			"Dark Clouds",
@@ -30,7 +30,7 @@
 	},
 	"trilogy": {
 		"title": "Trilogy",
-		"cover": "/assets/music_icons/trilogy.png",
+		"cover": "/music_icons/trilogy.png",
 		"songs": [
 			"Wake Up Call",
 			"Floating Voxels",
@@ -48,7 +48,7 @@
 	},
 	"chiptunes": {
 		"title": "Chiptunes",
-		"cover": "/assets/music_icons/dreamer.png",
+		"cover": "/music_icons/dreamer.png",
 		"description": "Chiptunes, and videogame-y songs",
 		"songs": [
 			"Neo-Pirate Village",
@@ -100,7 +100,7 @@
 	},
 	"ghost": {
 		"title": "Ghost's Album",
-		"cover": "/assets/music_icons/blank_wild.png",
+		"cover": "/music_icons/blank_wild.png",
 		"songs": [
 			"Ghost's Warble",
 			"Ghost's Howl",
@@ -117,7 +117,7 @@
 	},
 	"bops": {
 		"title": "Da Bops",
-		"cover": "/assets/music_icons/blank_evil.png",
+		"cover": "/music_icons/blank_evil.png",
 		"songs": [
 			"Overworld Theme",
 			"Disco Cow",
@@ -138,7 +138,7 @@
 	},
 	"pirate": {
 		"title": "Pirate Shanties",
-		"cover": "/assets/music_icons/blank_blue.png",
+		"cover": "/music_icons/blank_blue.png",
 		"songs": [
 			"Pirate's Tale",
 			"Pirate's Tale (Title Screen)",
@@ -148,7 +148,7 @@
 	},
 	"minecraft": {
 		"title": "Minecraft",
-		"cover": "/assets/music_icons/blank_green.png",
+		"cover": "/music_icons/blank_green.png",
 		"description": "Songs related to and/or for Minecraft",
 		"songs": [
 			"Willing",
@@ -161,7 +161,7 @@
 	},
 	"orchestrals": {
 		"title": "Orchestral",
-		"cover": "/assets/music_icons/blank_wings.png",
+		"cover": "/music_icons/blank_wings.png",
 		"description": "Emotional songs with a build-up",
 		"songs": [
 			"Agsta four",
@@ -183,7 +183,7 @@
 	},
 	"softwave": {
 		"title": "Softwave",
-		"cover": "/assets/music_icons/softwave.png",
+		"cover": "/music_icons/softwave.png",
 		"description": "Smoother synthy songs",
 		"songs": [
 			"A Dream of Home",
@@ -231,7 +231,7 @@
 	},
 	"broken": {
 		"title": "Broken",
-		"cover": "/assets/music_icons/glitch.png",
+		"cover": "/music_icons/glitch.png",
 		"songs": [
 			"A-t1",
 			"Willing",
@@ -263,7 +263,7 @@
 	},
 	"boss_fights": {
 		"title": "Boss Fights",
-		"cover": "/assets/music_icons/blank_red.png",
+		"cover": "/music_icons/blank_red.png",
 		"songs": [
 			"The Pyromaniac",
 			"Gravel King",
@@ -278,7 +278,7 @@
 	},
 	"rainworld": {
 		"title": "Rain World",
-		"cover": "/assets/music_icons/Seven_Blue_Haize.png",
+		"cover": "/music_icons/Seven_Blue_Haize.png",
 		"songs": [
 			"Reclaiming Entropy",
 			"Reclaiming Entropy (ST Remix)",
@@ -295,7 +295,7 @@
 	},
 	"rune_king": {
 		"title": "Rune King",
-		"cover": "/assets/music_icons/blank_purple.png",
+		"cover": "/music_icons/blank_purple.png",
 		"songs": [
 			"Dungeons",
 			"Rune King Title",
@@ -311,7 +311,7 @@
 	},
 	"odd_ones": {
 		"title": "The Odd Ones",
-		"cover": "/assets/music_icons/blank.png",
+		"cover": "/music_icons/blank.png",
 		"songs": [
 			"A Twinkle in my Robot Eye",
 			"Alice of the Bells",
@@ -380,7 +380,7 @@
 	},
 	"shops_and_towns": {
 		"title": "Shops & Towns",
-		"cover": "/assets/music_icons/blank.png",
+		"cover": "/music_icons/blank.png",
 		"songs": [
 			"Plucky Shop",
 			"Swanky Shop",
@@ -393,7 +393,7 @@
 	},
 	"corpse": {
 		"title": "Corpse",
-		"cover": "/assets/music_icons/blank.png",
+		"cover": "/music_icons/blank.png",
 		"songs": [
 			"Corpse",
 			"Crystal of Undeath"
@@ -401,7 +401,7 @@
 	},
 	"hue_blast": {
 		"title": "Hue Blast",
-		"cover": "/assets/music_icons/blank.png",
+		"cover": "/music_icons/blank.png",
 		"songs": [
 			"Hue Blast Title Theme",
 			"Endless Colour",
@@ -410,7 +410,7 @@
 	},
 	"drunky_kung": {
 		"title": "Drunky Kung 63",
-		"cover": "/assets/music_icons/blank.png",
+		"cover": "/music_icons/blank.png",
 		"songs": [
 			"Drunky Kung",
 			"Dull Troll",
@@ -426,7 +426,7 @@
 	},
 	"remixes": {
 		"title": "Remixes",
-		"cover": "/assets/music_icons/blank.png",
+		"cover": "/music_icons/blank.png",
 		"songs": [
 			"Echoes of the (Chiptune) Eye",
 			"Megalovania",
@@ -437,7 +437,7 @@
 	},
 	"adventures": {
 		"title": "Adventures",
-		"cover": "/assets/music_icons/blank.png",
+		"cover": "/music_icons/blank.png",
 		"songs": [
 			"Lamppost",
 			"Meteors",
