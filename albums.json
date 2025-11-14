@@ -28,6 +28,20 @@
 			"One Day"
 		]
 	},
+	"volume_3": {
+		"title": "GoofyBox Volume 3",
+		"cover": "/music_icons/blank_wild.png",
+		"songs": [
+			
+		]
+	},
+	"volume_4": {
+		"title": "GoofyBox Volume 4",
+		"cover": "/music_icons/volume_4.png",
+		"songs": [
+			"Glass Engines"
+		]
+	},
 	"trilogy": {
 		"title": "Trilogy",
 		"cover": "/music_icons/trilogy.png",
